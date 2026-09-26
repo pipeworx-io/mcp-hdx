@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-hdx",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Humanitarian Data Exchange (HDX) MCP — data.humdata.org, the open",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-dc0c15bf7be6cd8953f3c4a0a3ec3ca9745830e8afd515e5d8d38ee9b6c11c8d",
-    "sourceCommit": "76aa8f5d9b5dc2f665563030647c68e661478864"
+    "sourceHash": "v1-7606a57ee751c535f836439c82c04ffded661409ff218b4f987ef2e253e80398",
+    "sourceCommit": "1064560fd9dcd0d6fc2606298c2ba244b3a1fbeb"
   }
 }
