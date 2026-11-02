@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-hdx",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Humanitarian Data Exchange (HDX) MCP — data.humdata.org, the open humanitarian-data platform run by UN OCHA on CKAN.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "hdx",
     "gatewaySlug": "hdx",
-    "sourceHash": "v1-f32045d99928b5c27cdd2a5bb750a6042208edd81af671a7fd8d285b3868e138",
-    "sourceCommit": "4844029e402d6bd2fe735add8abf6d46735f8ed5"
+    "sourceHash": "v1-f7bbe7b418c93565ceed73a943c2dec649ad3365c22c19ba9f1b7d89d28177f3",
+    "sourceCommit": "0ca9712c0ac03bb0121cc7e81b202d0c45ac02ca"
   }
 }
